@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TapMe">klikni na me</string>
+    <string name="Hello">Nazdar Světe</string>
+    <string name="hmotnost">Hmotnost</string>
+    <string name="Výška">Výška</string>
+</resources>
